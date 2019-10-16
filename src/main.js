@@ -3,6 +3,8 @@ import 'font-awesome/css/font-awesome.css';
 
 import App from './App'
 
+import './config/bootstrap';
+
 import store from './config/store';
 
 Vue.config.productionTip = false
