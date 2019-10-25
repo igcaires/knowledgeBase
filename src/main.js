@@ -5,6 +5,8 @@ import App from './App'
 
 import './config/bootstrap';
 
+import './config/msgs';
+
 import store from './config/store';
 import router from './config/router';
 
