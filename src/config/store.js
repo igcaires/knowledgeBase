@@ -18,9 +18,6 @@ export default new Vuex.Store({
       } else {
         state.isMenuVisible = isVisible;
       }
-
-      // eslint-disable-next-line no-console
-      console.log(`toogleMenu = ${state.isMenuVisible}`);
     }
   },
 });
